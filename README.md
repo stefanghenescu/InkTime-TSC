@@ -62,7 +62,7 @@
 
 ## Hardware Functionality
 
-This section describes the main hardware subsystems of the InkTime TSC smartwatch, focusing on component choices, overall architecture, and how the design is optimized for low power consumption.
+This section describes the main hardware subsystems of the InkTime smartwatch, focusing on component choices, overall architecture, and how the design is optimized for low power consumption.
 
 ---
 
