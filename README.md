@@ -196,7 +196,7 @@ With a ~180 mAh LiPo battery and a mostly idle usage pattern (sleep + occasional
 *Note: All other nRF52840 pins not listed in this table are unused and reserved for future hardware revisions.*
 
 
-## 5. Design
+## Renders
 
 ### PCB Renderings
 ![PCB 2D](./Images/InkTime_PCB_2D.png)
