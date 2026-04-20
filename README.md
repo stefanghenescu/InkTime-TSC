@@ -189,7 +189,7 @@ With a ~180 mAh LiPo battery and a mostly idle usage pattern (sleep + occasional
 | **D+ / D-** | USB Interface | Differential data lines for USB communication. |
 | **VBUS** | USB Interface | Used to detect USB connection. |
 ---
-*Note: All other nRF52840 pins not listed in this table are unused and reserved for future hardware revisions.*
+*Note: All other nRF52840 pins not listed in this table are unused.*
 
 
 ## Renders
